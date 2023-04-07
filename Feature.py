@@ -1,6 +1,6 @@
-main():
-  x = 2
+def main():
+  x = 2 ** 2
   return x
 
-if __name__ = '__main__':
+if __name__ == '__main__':
   main()
